@@ -12,7 +12,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
           <Link to="/" className="text-primary text-3xl font-bold">
-            AutoDeal
+            Gari Yangu
           </Link>
           <div className="hidden md:block">
             <SearchBar />
